@@ -81,7 +81,7 @@
     "node": "8"
   },
   "dependencies": {
-    "@signalk/freeboard-sk": "^1.0.0",
+    "@signalk/freeboard-sk": "1.3.2",
     "@signalk/instrumentpanel": "0.x",
     "@signalk/maptracker": "^1.0.0",
     "@signalk/playground": "^1.0.0",
